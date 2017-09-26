@@ -1,5 +1,19 @@
 # HitsTest
 
+ReignDesign test project
+
+List of articles updates NODEJS
+
+used technologies
+ - Angular 4
+ - Bootstrap
+
+To run project:
+ - Clone repository
+ - run npm install
+ - run project with ng serve --open
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.6.
 
 ## Development server
