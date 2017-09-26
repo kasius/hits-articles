@@ -15,13 +15,7 @@ export const routes: Routes = [
     component: AppComponent,
     data: {
       title: 'List'
-    },
-    children: [
-      {
-        path: 'hits',
-        loadChildren: './hits/hits.module#HitsModule'
-      }
-    ]
+    }
   }
 ];
 
